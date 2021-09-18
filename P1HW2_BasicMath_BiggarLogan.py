@@ -1,3 +1,8 @@
+# A brief description of the project
+    # 9/17/2021
+    # CTI-110 P1HW2 - Basic Math
+    # Logan Biggar
+    #
 tax_rate = 0.06
 name_expense = input('Enter name of expense:')
 monthly_charge = float(input('Enter monthly charge:'))
